@@ -1,0 +1,8 @@
+{
+    "type": "outlet",
+    "id": "1",
+    "name": "Kuchnia",
+    "connectionState": "connected",
+    "isTurnedOn": true,
+    "powerConsumption": 100
+}

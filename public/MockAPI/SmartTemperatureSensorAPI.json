@@ -1,0 +1,7 @@
+{
+"type": "temperatureSensor",
+"id": "3",
+"name": "Jadalnia",
+"connectionState": "poorConnection",
+"temperature": 19
+}

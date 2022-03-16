@@ -1,0 +1,44 @@
+[
+  {
+  "type": "outlet", 
+  "id": "1",
+  "name": "Kuchnia",
+  "connectionState": "connected" 
+  },
+  {
+  "type": "bulb", 
+  "id": "2",
+  "name": "Salon",
+  "connectionState": "disconnected"
+  },
+  {
+  "type": "temperatureSensor", 
+  "id": "3",
+  "name": "Jadalnia",
+  "connectionState": "poorConnection"
+  },
+  {
+  "type": "temperatureSensor", 
+  "id": "4",
+  "name": "Ganek",
+  "connectionState": "poorConnection" 
+  },
+  {
+  "type": "bulb", 
+  "id": "5",
+  "name": "Łazienka",
+  "connectionState": "connected" 
+  },
+  {
+  "type": "temperatureSensor", 
+  "id": "6",
+  "name": "Jadalnia-bar",
+  "connectionState": "connected" 
+  },
+  {
+    "type": "bulb", 
+    "id": "7",
+    "name": "bar",
+    "connectionState": "connected" 
+  }
+]

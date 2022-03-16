@@ -1,0 +1,10 @@
+{
+  "type": "bulb",
+  "id": "5",
+  "name": "Łazienka",
+  "connectionState": "connected",
+  "isTurnedOn": true,
+  "brightness": 50, 
+  "color": "#666"
+}
+
